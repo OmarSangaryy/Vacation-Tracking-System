@@ -69,13 +69,3 @@ To deliver a **user-friendly**, **efficient**, and **transparent** platform for 
 ## 🧩 System Sequence Diagram
 
 ![System Sequence Diagram](vts%20sequence%20diagram.png)
-
-<!-- If the filename contains spaces, using %20 works for GitHub -->
-
----
-
-## 📂 Folder Structure
-
-Make sure both `README.md` and `vts sequence diagram.png` are in the **same directory** to ensure the image renders correctly.
-
----
