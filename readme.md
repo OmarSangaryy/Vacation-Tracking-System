@@ -68,4 +68,4 @@ To deliver a **user-friendly**, **efficient**, and **transparent** platform for 
 
 ## 🧩 System Sequence Diagram
 
-![System Sequence Diagram](vts%20sequence%20diagram.png)
+![System Sequence Diagram](sequenceDiagram.png)
